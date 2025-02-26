@@ -1,5 +1,7 @@
 # An Overview Of The Most Common Types Of Artificial Neural Networks In Data Science
 
+### Descriptions and multiple implementations of common neural networks found in data science.
+
 ## Have a look at the [Overview](Common_Neural_Networks_In_Data_Science.ipynb) notebook to learn little about each, and go from there.
 
 ### Simple Selection Guide:
